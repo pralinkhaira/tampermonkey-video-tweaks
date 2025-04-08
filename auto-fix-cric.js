@@ -3,6 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.5
 // @description  Reloads page if video stops playing for too long
+// @author       Pralin Khaira
 // @match        *://criccoder264.pages.dev/*
 // @grant        none
 // @run-at       document-idle
